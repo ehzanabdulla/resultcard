@@ -1,3 +1,3 @@
 # resultcard
 first real project<br>
-Author- Ehzan Abdulla
+Author- Ehzan Abdulla(beginner)
